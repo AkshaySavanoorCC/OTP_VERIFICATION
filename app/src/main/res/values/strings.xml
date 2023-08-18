@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">evaluation2</string>
+    <string name="verification_header">OTP Verification</string>
+    <string name="validation_text">Enter the One Time Password sent to your
+registered mobile number ******48.</string>
+    <string name="verify_otp">VERIFY OTP</string>
+    <string name="received_otp">Did not receive OTP?</string>
+    <string name="resend">RESEND OTP</string>
+    <string name="smart_fun_route">CONTINUE TO SMARTFUN</string>
+    <string name="otp_verified">OTP Verified Successfully!</string>
+</resources>
